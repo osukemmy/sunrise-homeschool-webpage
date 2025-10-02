@@ -1,43 +1,51 @@
-# 📘 Assignment: Enhancing HTML5 Content & Mastering Forms
+# 🌅 Sunrise Homeschool Webpage
 
-## Overview
+This repository contains the **Sunrise Homeschool Webpage**, created as part of the *Advanced HTML5: Enhancing Content & Mastering Forms* assignment (July 2025).
 
-This assignment focuses on elevating your HTML5 skills by working with advanced content elements and mastering the creation, structure, and validation of web forms. You will practice using lists, tables, and media to enrich page content, and then dive deep into building dynamic, user-friendly forms powered by native HTML5 features.
+---
 
-## Objectives
+## 📖 About Sunrise Homeschool
+Sunrise Homeschool is dedicated to providing **personalized, flexible, and high-quality education** through both local and international curricula.  
 
-You are expected to demonstrate the ability to:
+### Curricula Offered
+- **Kenyan Competency-Based Curriculum (CBE)**
+- **British National Curriculum (BNC)**
+- **IGCSE**
+- **International Baccalaureate (IB)**
 
-* Use lists and tables effectively to organize content for clarity and accessibility.
-* Embed media content such as images, audio, or video using semantic HTML5 elements.
-* Build structured HTML5 forms that are both usable and visually intuitive.
-* Apply various HTML5 form attributes to improve user interaction.
-* Use built-in validation techniques to minimize incorrect data input without relying on JavaScript.
+### Our Services
+- 🎥 **Online & Virtual Classes**  
+- 🏠 **Home-Based Learning**  
+- 📚 **Specialized Subject Tutoring**
 
-## Instructions
+### Teachers
+All teachers are:
+- Fully **TSC-registered** (Teachers Service Commission).  
+- Certified by **international education bodies**.  
+- Experienced in modern pedagogy and inclusive teaching methods.  
 
-Design a simple multi-section web page that showcases the use of lists, tables, and media, followed by a complete HTML5 form. The page should reflect thoughtful structure, usability, and clarity.
+---
 
-Your form should include various input types, make use of labels and fieldsets for accessibility, and apply HTML5 validation rules through attributes like `required`, `type`, `minlength`, `pattern`, and others.
+## 📋 Assignment Overview
 
-Avoid using JavaScript for validation—rely solely on native HTML5 capabilities.
+**Assignment Title:** Enhancing HTML5 Content & Mastering Forms  
 
-## Deliverables
+This assignment focuses on:
+- Elevating HTML5 skills by working with advanced content elements.  
+- Mastering the creation, structure, and validation of web forms.  
+- Using semantic HTML5 elements for clarity and accessibility.  
 
-Submit a single HTML file named `enhanced-form.html`. It should include:
+---
 
-* Well-structured content using lists, tables, and media.
-* A complete HTML5 form including a variety of input fields.
-* Correct use of form attributes such as `placeholder`, `required`, `autocomplete`, and `readonly`.
-* HTML5 validation features implemented correctly across all relevant fields.
-* A clear, accessible layout using semantic tags.
+## 🎯 Objectives
+- Use **lists** and **tables** to organize content effectively.  
+- Embed **media** (images, audio, video) using semantic HTML5 elements.  
+- Build **structured HTML5 forms** that are usable and intuitive.  
+- Apply **HTML5 form attributes** (e.g., required, minlength, pattern).  
+- Use **built-in validation** without JavaScript.  
 
-## Tips
+---
 
-* Proper and meaningful use of lists, tables, and media.
-* Clarity and accessibility of form structure.
-* Correct use of form elements and attributes.
-* Effective application of native HTML5 validation.
-* Clean, well-indented, and maintainable HTML code.
-
+## 🛠 Deliverables
+A single HTML file named:  
 
